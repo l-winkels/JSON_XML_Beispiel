@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleClient": {
+      "commandName": "Project",
+      "commandLineArgs": "json"
+    }
+  }
+}
