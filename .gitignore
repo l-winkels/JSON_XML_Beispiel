@@ -3,3 +3,11 @@
 ################################################################################
 
 /SimpleClient/bin/Debug/net5.0
+/SimpleClient/obj
+/ValueObjects/bin/Debug/net5.0
+/ValueObjects/obj
+/XMLServer/bin/Debug/net5.0
+/XMLServer/obj
+/.vs
+/MVCServer/bin/Debug/net5.0
+/MVCServer/obj
