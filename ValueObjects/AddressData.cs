@@ -4,12 +4,12 @@ namespace ValueObjects
 {
     public class AddressData
     {
-        public String FirstName { get; private set; }
-        public String LastName { get; private set; }
-        public String Street { get; private set; }
-        public String City { get; private set; }        
-        public String Country { get; private set; }
-        public String ZipCode { get; private set; }
+        public String FirstName { get; set; }
+        public String LastName { get; set; }
+        public String Street { get; set; }
+        public String City { get; set; }        
+        public String Country { get; set; }
+        public String ZipCode { get; set; }
 
         /// <summary>
         /// Default initialization without values is not allowed.

@@ -23,7 +23,7 @@ namespace SimpleServer
                         new Server(true, addressData).Listen();
                         break;
                     case "xml":
-                        new Server(true, addressData).Listen();
+                        new Server(false, addressData).Listen();
                         break;
                     default:
                         printUsage();
